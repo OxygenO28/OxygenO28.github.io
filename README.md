@@ -5,7 +5,7 @@
 ## Education			        		
 - B.S., Computer Science | Florida Polytechnic University (_May 2025_)
 
-## Work Experience
+## Experience
 **Student Worker - IT @ Florida Polytechnic University (_May 2023 - Present_)**
 - Worked with computer-based information systems. Both network and software applications and computer hardware. As well as customer service for resolving any issues that may occur on a day-to-day basis. Led the upgrade and installation of computer labs, as well as configuring, imaging, and installing advanced software on
 relevant hardware.
