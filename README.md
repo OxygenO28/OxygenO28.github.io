@@ -1,5 +1,3 @@
-# Data Engineer
-
 #### Technical Skills: Python, SQL, AWS, Snowflake, C, C++, Java, R, Unix, Extract Transform Load (ETL) Pipelines, Data Modeling, PySpark, MapReduce, PyTorch, Data Mining, Data Engineering, Data Analytics, Query Writing, Apache Spark, Hadoop, Azure, Google Cloud, MongoDB, Tableau, PostgreSQL, Machine Learning, Tensorflow, Kafka, Docker
 
 ## Education			        		
